@@ -7,8 +7,7 @@ Proyecto realizado en Tinkercad.
 
 ## 📸 Vista del circuito
 
-![Vista del circuito en Tinkercad](![image](https://github.com/user-attachments/assets/cba4822c-db21-4b1a-aec9-7c8064c2529d)
-)
+https://github.com/SantiagoBaeza/cerradura-electronica-keypad/blob/main/cerradura%20electronica%20.jpg
 
 ---
 
