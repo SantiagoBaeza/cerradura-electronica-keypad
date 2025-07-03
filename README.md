@@ -58,5 +58,5 @@ Escrito en C++ para Arduino con estructura sencilla y comentarios.
 
 ## 📌 Simulación en Tinkercad
 
-> Si querés acceder a la simulación online, podés compartir el link público y agregarlo aquí:
+> https://www.tinkercad.com/things/dqUuVWItVk6-cerradura-electronica-
 
