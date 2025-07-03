@@ -7,7 +7,8 @@ Proyecto realizado en Tinkercad.
 
 ## 📸 Vista del circuito
 
-![Vista del circuito en Tinkercad](./b257e384-2fa7-4845-bae2-63ccd79a8456.png)
+![Vista del circuito en Tinkercad](![image](https://github.com/user-attachments/assets/cba4822c-db21-4b1a-aec9-7c8064c2529d)
+)
 
 ---
 
