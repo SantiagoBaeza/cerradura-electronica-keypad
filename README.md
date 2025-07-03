@@ -50,8 +50,8 @@ Permitir el acceso solo a quienes ingresen el código correcto desde el teclado.
 
 ## 📁 Código fuente
 
-El archivo principal es `cerradura.ino` (podés renombrarlo así).  
-Escrito en C++ para Arduino con estructura sencilla y comentarios.
+El archivo principal es: https://github.com/SantiagoBaeza/cerradura-electronica-keypad/blob/main/cerradura_electronica_1.ino  
+Escrito en C++ para Arduino con estructura sencilla, sin comentarios.
 
 ---
 
