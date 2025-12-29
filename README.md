@@ -1,23 +1,24 @@
-# 🔐 Cerradura electrónica con teclado 4x4 y pantalla LCD
+[⬅️ Volver a "Arduino"](https://github.com/SantiagoBaeza/-Portfolio-de-proyectos-Arduino-Embebidos)
+# Cerradura electrónica con teclado 4x4 y pantalla LCD
 
 Simulación de una cerradura electrónica usando Arduino UNO, teclado matricial 4x4 y display LCD 16x2.  
 Proyecto realizado en Tinkercad.
 
 ---
 
-## 📸 Vista del circuito
+## Vista del circuito
 
 https://github.com/SantiagoBaeza/cerradura-electronica-keypad/blob/main/cerradura%20electronica%20.jpg
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Permitir el acceso solo a quienes ingresen el código correcto desde el teclado. Al ingresar "*", el sistema solicita una clave de 4 dígitos y la compara con la contraseña establecida (`3519`).
 
 ---
 
-## 🔧 Componentes utilizados
+## Componentes utilizados
 
 - Arduino UNO
 - Teclado matricial 4x4
@@ -29,7 +30,7 @@ Permitir el acceso solo a quienes ingresen el código correcto desde el teclado.
 
 ---
 
-## 🧠 Funcionalidad
+## Funcionalidad
 
 - ✅ Muestra mensaje inicial en LCD
 - ✅ Al presionar `*`, solicita ingreso de clave
@@ -38,7 +39,7 @@ Permitir el acceso solo a quienes ingresen el código correcto desde el teclado.
 
 ---
 
-## 💡 Lógica implementada
+## Lógica implementada
 
 - Uso de librerías `Keypad.h` y `LiquidCrystal.h`
 - Manejo de `String` para construir la clave
@@ -48,7 +49,7 @@ Permitir el acceso solo a quienes ingresen el código correcto desde el teclado.
 
 ---
 
-## 📁 Código fuente
+## Código fuente
 
 El archivo principal es: https://github.com/SantiagoBaeza/cerradura-electronica-keypad/blob/main/cerradura_electronica_1.ino  
 Escrito en C++ para Arduino con estructura sencilla, sin comentarios.
