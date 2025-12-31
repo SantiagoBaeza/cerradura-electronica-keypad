@@ -8,7 +8,7 @@ Proyecto realizado en Tinkercad.
 
 ## Vista del circuito
 
-https://github.com/SantiagoBaeza/cerradura-electronica-keypad/blob/main/cerradura%20electronica%20.jpg
+![imagen](https://github.com/SantiagoBaeza/cerradura-electronica-keypad/blob/main/cerradura%20electronica%20.jpg)
 
 ---
 
@@ -56,7 +56,7 @@ Escrito en C++ para Arduino con estructura sencilla, sin comentarios.
 
 ---
 
-## 📌 Simulación en Tinkercad
+## Simulación en Tinkercad
 
 > https://www.tinkercad.com/things/dqUuVWItVk6-cerradura-electronica-
 
